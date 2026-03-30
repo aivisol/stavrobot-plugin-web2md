@@ -1,0 +1,10 @@
+{
+  "name": "web2md",
+  "description": "Converts any webpage to Markdown using the Apify webpage-to-markdown actor.",
+  "config": {
+    "apify_token": {
+      "description": "Apify API token (get from https://console.apify.com/account/integrations)",
+      "required": true
+    }
+  }
+}
